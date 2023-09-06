@@ -1,0 +1,5 @@
+audit-khulnasoft-w:write
+audit-khulnasoft-r:read
+audit-khulnasoft-a:attribute
+audit-khulnasoft-x:execute
+audit-khulnasoft-c:command
